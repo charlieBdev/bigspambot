@@ -1,9 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**bigspambot/bigspambot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Welcome to my repo!
 
 - 🔭 I’m currently working on ... my portfolio website
 - 🌱 I’m currently learning ... HTML, CSS, JS, Python, SQL
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... send me an email via my portfolio website
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I'm a brown belt in BJJ so watch out! :D
--->
